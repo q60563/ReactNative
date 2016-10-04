@@ -49,3 +49,5 @@ $ android
  - 進入 Settings -> About phone
  - 點選Build number 7下，用以開啟開發者模式。
  - 回到Settings點選Developer options開啟usb偵錯
+
+[參考資料](http://reactnative.cn/docs/0.23/android-setup.html#content)
