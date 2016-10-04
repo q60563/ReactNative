@@ -1,7 +1,7 @@
 # 建立一個reactnative專案
 
 ```
-react-native init projectName
+$ react-native init projectName
 ```
 
 #IOS
@@ -12,7 +12,7 @@ react-native init projectName
 #Android
 - 輸入以下指令:
 ```
-react-native run-android
+$ react-native run-android
 ```
 - 開啟編譯器修改index.andriod.js。
 - 按下模擬器中的Menu鍵，之後點選 Reload JS 即可看到修改過後結果。
