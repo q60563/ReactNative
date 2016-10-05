@@ -10,6 +10,7 @@ $ react-native init projectName
 - 存擋後在模擬器上按下⌘-R，即可看到修改過後的結果。
 
 #Android
+- 開啟模擬器
 - 輸入以下指令:
 ```
 $ react-native run-android
